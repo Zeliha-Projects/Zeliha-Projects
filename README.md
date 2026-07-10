@@ -1,14 +1,12 @@
 <div align="center">
 
 # ─── ⋆⋅☆⋅⋆ ───
-# ✧ Snoopy_Spooky_py | Call me zeli ✧
+# ✧ Snoopy_Spooky_py ✧
 ### *“The time you enjoy wasting is not wasted time.”*
 # ─── ⋆⋅☆⋅⋆ ───
 
 <br>
 
-
-<br>
 
 ## Current Level
 
